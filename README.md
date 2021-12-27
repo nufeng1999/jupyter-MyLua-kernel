@@ -1,5 +1,8 @@
-# MyLua kernel for Jupyter
-[Example](https://github.com/nufeng1999/jupyter-MyLua-kernel/blob/master/example/jupyter_MyLua_readme.ipynb "Example")
+![](https://img.shields.io/badge/Jupyter-Kernel-green?link=https://jupyter.org/&link=https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) ![](https://img.shields.io/badge/MyLua-Kernel-orange) ![](https://img.shields.io/github/watchers/nufeng1999/jupyter-MyLua-kernel) <img alt="ViewCount" src="https://views.whatilearened.today/views/github/nufeng1999/jupyter-MyLua-kernel.svg">
+    <a href="https://github.com/nufeng1999/jupyter-MyLua-kernel"><img alt="GitHub Clones" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://raw.githubusercontent.com/nufeng1999/jupyter-MyLua-kernel/master/clone.json&logo=github"></a>
+# MyLua kernel for Jupyter  
+  
+[Example](https://github.com/nufeng1999/jupyter-MyLua-kernel/blob/master/example/MyLua.ipynb "Example")
 * Make sure you have the following requirements installed:
   * Lua
   * jupyter
