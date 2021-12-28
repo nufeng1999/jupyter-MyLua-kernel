@@ -30,7 +30,9 @@ My minification kelnel of jupyter
 |[MyTypeScript](https://github.com/nufeng1999/jupyter-MyTypeScript-kernel)|[MyPowerShell](https://github.com/nufeng1999/jupyter-MyPS-kernel)      |
 |[MyBatch](https://github.com/nufeng1999/jupyter-MyBatch-kernel)         |[MyLua](https://github.com/nufeng1999/jupyter-MyLua-kernel)             |
 |[MyPerl](https://github.com/nufeng1999/jupyter-MyPerl-kernel)           |[MyLua](https://github.com/nufeng1999/jupyter-MySwift-kernel)           |
-|[MyPHP](https://github.com/nufeng1999/jupyter-MyPHP-kernel)             |[MyLua](https://github.com/nufeng1999/jupyter-MyR-kernel)               |
+|[MyPHP](https://github.com/nufeng1999/jupyter-MyPHP-kernel)             |[MyR](https://github.com/nufeng1999/jupyter-MyR-kernel)                 |
+|[MyMake](https://github.com/nufeng1999/jupyter-MyMake-kernel)           |[MyRust](https://github.com/nufeng1999/jupyter-MyRust-kernel)           |
+|[MyRuby](https://github.com/nufeng1999/jupyter-MyRuby-kernel)           |[MyTcl](https://github.com/nufeng1999/jupyter-MyTcl-kernel)             |
   
 ----  
 ### Support label  
