@@ -111,7 +111,7 @@ class MyLuaKernel(MyKernel):
         return self.mymagics.create_jupyter_subprocess(args,env=env,magics=magics),binary_filename,args
     def _exec_luac_(self,source_filename,magics):
         self.mymagics._logln('Generating executable file')
-        with self.new_temp_file(suffix='.out') as binary_file:
+        with self.mymagics.new_temp_file(suffix='.out') as binary_file:
             
             magics['status']='compiling'
             p,outfile,luaccmd = self.compile_with_luac(
@@ -189,7 +189,7 @@ class MyLuaKernel(MyKernel):
         bcancel_exec=False
         retinfo=self.mymagics.get_retinfo()
         retstr=''
-        source_file=self.create_codetemp_file(magics,code,suffix='.lua')
+        source_file=self.mymagics.create_codetemp_file(magics,code,suffix='.lua')
         newsrcfilename=source_file.name
         fil_ename=newsrcfilename
         return_code=True
